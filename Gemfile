@@ -6,6 +6,7 @@ ruby '3.0.0'
 ####
 
 gem 'faker'
+gem 'simple_form'
 
 #####
 
